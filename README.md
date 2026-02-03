@@ -309,7 +309,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-**Project Maintainer:** Data-pageup  
+**Project Maintainer:** Amirtha Ganesh R
 **GitHub:** [@Data-pageup](https://github.com/Data-pageup)
 
 ---
@@ -332,6 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ and Python
+Made with ❤️ and data Science
 
 </div>
